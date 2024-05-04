@@ -1,0 +1,9 @@
+body{
+    text-align: center;
+    background: #e6c0c0;
+}
+#my-canvas{
+    background: #dd5050;
+    margin-left: 10px;
+    margin-top: 10px;
+}

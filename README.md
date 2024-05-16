@@ -36,7 +36,7 @@ Once the game is loaded in your web browser, use the following controls to play:
 - **  A  **: Move the falling tetromino left.
 - **  D  **: Move the falling tetromino right.
 - **  S  **: Move the falling tetromino down (faster descent).
-- **  **: Rotate the falling tetromino clockwise.
+- **  E  **: Rotate the falling tetromino clockwise.
 - **Space Bar**: Instantly drop the falling tetromino to the bottom.
 
 The objective of the game is to clear as many lines as possible by filling horizontal lines with tetrominoes. Each cleared line scores points, and the game ends when the stack of tetrominoes reaches the top of the grid.
